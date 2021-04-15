@@ -2883,6 +2883,7 @@ h6 {
 }
 .service_1_single .content p {
     margin: 0;
+    min-height: 68px;
 }
 .service_1_img {
     position: relative;
@@ -2901,7 +2902,7 @@ h6 {
 }
 .service_1_img .hover_box {
     position: absolute;
-    top: -25px;
+    top: -60px;
     left: -50px;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
@@ -9948,4 +9949,12 @@ h6 {
     display: block;
     height: 560px;
     z-index: 10;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+.differnt-aspect a{
+    padding: 20px;
+    width: 300px;
 }

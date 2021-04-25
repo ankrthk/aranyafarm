@@ -9177,6 +9177,7 @@ h6 {
     border-radius: 5px;
 }
 .about_two_middle {
+    position: relative;
     margin-right: 140px;
     margin-left: -70px;
 }

@@ -1167,12 +1167,17 @@
     .topbar-one .topbar_bg {
         display: none;
     }
+    
     .topbar-one__left {
         display: none;
     }
     .topbar-one__right {
         display: none;
     }
+    .contact-one .topbar-one__right {
+        display: block;
+    }
+
     .topbar-one__middle {
         transform: translate(0);
         position: absolute;
